@@ -11,6 +11,7 @@ It has been bugging me how uselessly large these buttons on the top of the Direc
 /* Smaller DM page top buttons */
 a[data-list-item-id$="_friends"],
 a[data-list-item-id$="_library"],
+a[data-list-item-id$="_messageRequests"],
 a[data-list-item-id$="_nitro"],
 a[data-list-item-id$="_shop"],
 a[data-list-item-id$="_quests"] {
